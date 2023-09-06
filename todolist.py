@@ -1,8 +1,5 @@
 from tkinter import *
 from tkinter import ttk
-    
-def remove_note(*args):
-    frm.winfo_children()
 
 dic = {}
 dic['row_val'] = 3
